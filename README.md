@@ -10,8 +10,6 @@ Course included: Pattern Recognition(2014-2015-1)
 科目有：模式识别(2014-2015-1)
 
 Contact Me:
-
 Email：streamerset@sina.com
-
 QQ: 1412763221
 
